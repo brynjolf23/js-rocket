@@ -1,3 +1,7 @@
+setTimeout(function() {
+    location.href = 'rocket.html';
+}, 2000);
+
 console.log('hello meme!');
 
 //what a meme
